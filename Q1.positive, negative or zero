@@ -9,8 +9,8 @@ int main()
   printf("Enter any interger\n");
   scanf("%d",&x);
   if(x==0) printf("Zero");
-  else if(x%2==0) printf("Even Integer");
-  else printf("Odd Integer");
+  else if(x>=0) printf("Positive Integer");
+  else printf("Negative Integer");
 return 0;
 }
 
