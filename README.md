@@ -50,15 +50,16 @@ Level EXP	Expert Review, Community-reviewed, bias-free, and production-grade log
 Every problem evolves through these levels as contributors propose improvements.
   
 
-📚 Learning Roadmap
-Stage	Concept	Topics Covered  
-01	Basics	Data types, I/O, syntax  
-02	Control Flow	Loops, conditionals, branching  
-03	Functions	Recursion, modular design  
-04	Pointers	Memory, arrays, dynamic allocation  
-05	Data Structures	Structs, linked lists  
-06	Advanced	File handling, command-line args  
-
+📚 Learning Roadmap  
+```
+Stage     Concept	          Topics Covered  
+01        Basics	          Data types, I/O, syntax  
+02        Control Flow	      Loops, conditionals, branching  
+03        Functions	          Recursion, modular design  
+04        Pointers	          Memory, arrays, dynamic allocation  
+05        Data Structures     Structs, linked lists  
+06        Advanced            File handling, command-line args  
+```
 Each stage builds upon the previous one, ensuring a logical and sequential learning experience.
 
 ---
