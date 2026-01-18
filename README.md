@@ -63,7 +63,7 @@ Stage     Concept	          Topics Covered
 Each stage builds upon the previous one, ensuring a logical and sequential learning experience.
 
 ---
-💡 Educational & Professional Impact
+💡 Educational & Professional Impact.
 ---
 
 This repository demonstrates:  
