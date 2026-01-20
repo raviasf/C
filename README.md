@@ -21,7 +21,7 @@ To create a **comprehensive, beginner-friendly roadmap** to learning C through p
 > Performance  
 
 ---
-This repository is not a “notes dump” — it’s a **learning framework** built like production code.
+This repository is not a “notes-dump” — it’s a **learning framework** built like production code.
 ---
 
 
